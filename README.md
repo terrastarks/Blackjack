@@ -8,9 +8,9 @@ This is a simple web-based Blackjack game created using HTML, CSS, and JavaScrip
 
 1. **Start the Game:** Open the `index.html` file in a web browser.
 2. **Play the Game:** Click the "Start Game" button to start the game. You'll receive two initial cards.
-4. **Gameplay:** You can choose to "New Card" (take another card) or "Stand" (keep your current hand) based on the total value of your cards. Try to get as close to 21 as possible without going over.
-5. **Win or Lose:** The game will determine the winner based on standard Blackjack rules.
-6. **Restart:** You can restart the game at any time by refreshing the page.
+3. **Gameplay:** You can choose to "New Card" (take another card) or "Stand" (keep your current hand) based on the total value of your cards. Try to get as close to 21 as possible without going over.
+4. **Win or Lose:** The game will determine the winner based on standard Blackjack rules.
+5. **Restart:** You can restart the game at any time by refreshing the page.
 
 ## Features
 
